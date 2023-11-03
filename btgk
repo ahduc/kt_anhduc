@@ -1,0 +1,139 @@
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"166px"} -->
+<div style="height:166px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p><strong>Located in the heart of Hue, only 14km from Phu Bai Airport, with a classic modern design, Senna Hue Hotel offers a variety of luxurious services. Here, courtesy and kindness are the cornerstones of great hospitality, creating a unique experience. Enjoy a comfortable stay in our luxury rooms..</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"full","id":435,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image alignfull size-full"><img src="http://localhost/btgk_duc/wp-content/uploads/2023/10/67.jpg" alt="" class="wp-image-435"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:columns {"align":"full"} -->
+<div class="wp-block-columns alignfull"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:spacer {"height":"69px"} -->
+<div style="height:69px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center"><a href="https://sennahue.com/en/premium-senna.html">PREMIUM SENNA</a></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Một căn phòng chất lượng</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"82px"} -->
+<div style="height:82px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Phòng Premium Senna của chúng tôi có giường cỡ Queen thoải mái. Các phòng đều rộng rãi có ban công thoáng mát. Mỗi phòng đều có khu vực tiếp khách thoải mái và bàn làm việc rộng rãi. Các phòng tắm lớn được trang bị vòi sen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"9px"} -->
+<div style="height:9px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textAlign":"center"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button">Chi Tiết</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"align":"left","id":425,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image alignleft size-full"><img src="http://localhost/btgk_duc/wp-content/uploads/2023/10/66.jpg" alt="" class="wp-image-425"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:columns {"align":"full"} -->
+<div class="wp-block-columns alignfull"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":428,"width":"1270px","height":"auto","aspectRatio":"1.3969986357435198","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://localhost/btgk_duc/wp-content/uploads/2023/10/44F.jpg" alt="" class="wp-image-428" style="aspect-ratio:1.3969986357435198;width:1270px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:spacer {"height":"164px"} -->
+<div style="height:164px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center"><a href="https://sennahue.com/en/premium-senna.html">PREMIUM </a></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong><em>Mang theo gia đình của bạn</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"34px"} -->
+<div style="height:34px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Các phòng cao cấp có giường cỡ Queen hoặc 2 giường đơn thoải mái với tầm nhìn ra khu vườn hoặc thành phố tươi tốt. Các phòng đều rộng rãi, có ban công thoáng mát, có cửa thông nhau. Mỗi phòng đều có khu vực tiếp khách thoải mái và bàn làm việc rộng rãi. Các phòng tắm lớn được trang bị vòi sen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textAlign":"center"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button">Chi Tiết</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"align":"full"} -->
+<div class="wp-block-columns alignfull"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:spacer {"height":"160px"} -->
+<div style="height:160px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center"><a href="https://sennahue.com/en/executive-suite.html">EXECUTIVE SUITE</a></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong><em>Phòng chất lượng nhìn ra vườn</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"14px"} -->
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Executive Suites có giường cỡ Queen thoải mái với tầm nhìn ra khu vườn tươi tốt. Các phòng đều rộng rãi và có ban công. Mỗi phòng đều có khu vực tiếp khách thoải mái và bàn làm việc rộng rãi. Phòng tắm lớn được trang bị vòi sen và bồn tắm.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textAlign":"center"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button">Chi Tiết</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":434,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://localhost/btgk_duc/wp-content/uploads/2023/10/5.jpg" alt="" class="wp-image-434"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
